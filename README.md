@@ -1,0 +1,2 @@
+# selfproj
+Self contained project
